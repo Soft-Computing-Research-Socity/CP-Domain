@@ -1,10 +1,10 @@
 # CP-Domain
 Competitive Domain
 
-         Programming Language Courses
-
-                  For Python
-                 Youtube Links 
+             Programming Language Courses
+             
+ For Python
+                    Youtube Links 
 
 https://www.youtube.com/watch?v=7wnove7K-ZQ&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg
 
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-
 
 https://www.youtube.com/watch?v=OZIRAavoGng&list=PLjVLYmrlmjGcQfNj_SLlLV4Ytf39f8BF7
 
-                 Udemy Links
+                     Udemy Links
 
 https://www.udemy.com/course/100-days-of-code/
 
